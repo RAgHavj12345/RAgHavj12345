@@ -1,11 +1,7 @@
 <div align="center">
-  <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=250&section=header&text=Raghav%20Joshi&desc=Aspiring%20AI%20%26%20ML%20Engineer&fontSize=70&fontColor=ffffff&animation=fadeIn" 
-      alt="Raghav Joshi Portfolio Banner" 
-      style="max-width: 100%; height: auto;"
-    />
-  </a>
+<a href="https://portfolio-bfu1.vercel.app">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=250&section=header&text=Raghav%20Joshi&desc=Aspiring%20AI%20%26%20ML%20Engineer&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Raghav Joshi Portfolio Banner"/>
+</a>
 </div>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
