@@ -30,7 +30,7 @@
 <details>
   <summary>👨‍💻<strong> Click here to learn more about me</strong></summary>
   <br>
-  I am a motivated and detail-oriented AI/ML enthusiast currently pursuing my B.Tech in Computer Science from JIMS Engineering Management Technical Campus (GGSIPU). My passion lies in turning complex data into actionable insights and building impactful, intelligent solutions. I have hands-on experience with key machine learning frameworks and a proven ability to learn and adapt in collaborative, fast-paced environments. I'm always eager to connect and discuss new technologies, projects, or opportunities!
+  I am a motivated and detail-oriented AI/ML enthusiast currently pursuing my B.Tech in Computer Science. My passion lies in turning complex data into actionable insights and building impactful, intelligent solutions. I have hands-on experience with key machine learning frameworks and a proven ability to learn and adapt in collaborative, fast-paced environments. I'm always eager to connect and discuss new technologies, projects, or opportunities!
 </details>
 
 ---
