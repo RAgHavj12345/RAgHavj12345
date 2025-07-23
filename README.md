@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.comcom/raghavj12345/portfolio">
+  <a href="https://github.com/raghavj12345/portfolio">
     <img src="https://socialify.git.ci/raghavj12345/portfolio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Portfolio Banner" width="700"/>
   </a>
 </div>
