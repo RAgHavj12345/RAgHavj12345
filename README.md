@@ -79,10 +79,10 @@
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavj12345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Raghav's GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavj12345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Raghav's GitHub Stats"/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak"/>
+</div>
