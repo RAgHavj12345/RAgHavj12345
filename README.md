@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a motivated and detail-oriented **Aspiring AI/ML Engineer** with a strong academic foundation in Computer Science from JIMS Engineering Management Technical Campus, Delhi. My passion lies in turning complex data into actionable insights and building impactful AI-driven solutions. I have hands-on experience with key machine learning frameworks and a proven ability to learn and adapt in collaborative, fast-paced environments.
+I am a motivated and detail-oriented **Aspiring AI/ML Engineer** with a strong academic foundation in Computer Science from JIMS Engineering Management Technical Campus affilated to Guru Gobind Singh Indraprastha University (IPU). My passion lies in turning complex data into actionable insights and building impactful AI-driven solutions. I have hands-on experience with key machine learning frameworks and a proven ability to learn and adapt in collaborative, fast-paced environments.
 
 ## 🚀 View My Interactive Portfolio
 
