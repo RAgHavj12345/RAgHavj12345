@@ -8,7 +8,7 @@
 <h3 align="center">Aspiring AI & Machine Learning Engineer from New Delhi, India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://raghavj12345.github.io/portfolio/" target="_blank">
+  <a href="https://portfolio-bfu1.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://raghavj12345.github.io/Certifications/" target="_blank">
