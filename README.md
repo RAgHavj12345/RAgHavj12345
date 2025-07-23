@@ -99,10 +99,13 @@
     style="max-width: 100%; height: auto;" 
   />
 
+  <div align="center">
+
   <img 
-    src="https://platane.github.io/snk/svg-only/github-contribution-grid-snake-dark.svg?user=raghavj12345&theme=dark" 
-    alt="Raghav's GitHub Snake" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="Raghav's GitHub Snake Animation" 
     style="max-width: 100%; height: auto;" 
   />
 
 </div>
+
