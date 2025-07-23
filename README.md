@@ -80,11 +80,29 @@
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavj12345&show_icons=true&theme=tokyonight&count_private=true" alt="Raghav's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak"/>
-  <br/><br/>
-<img src="https://platane.github.io/snk/svg-only/github-contribution-grid-snake-dark.svg?user=raghavj12345&theme=dark" alt="Raghav's GitHub Snake"/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=raghavj12345&show_icons=true&theme=tokyonight&count_private=true" 
+    alt="Raghav's GitHub Stats" 
+    style="max-width: 100%; height: auto;" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Top Languages" 
+    style="max-width: 100%; height: auto;" 
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" 
+    alt="GitHub Streak" 
+    style="max-width: 100%; height: auto;" 
+  />
+
+  <img 
+    src="https://platane.github.io/snk/svg-only/github-contribution-grid-snake-dark.svg?user=raghavj12345&theme=dark" 
+    alt="Raghav's GitHub Snake" 
+    style="max-width: 100%; height: auto;" 
+  />
+
 </div>
