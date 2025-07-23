@@ -11,9 +11,9 @@
   <a href="https://raghavj12345.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
   </a>
-<a href="https://raghavj12345.github.io/Certifications/" target="_blank">
-  <img src="https://img.shields.io/badge/View_Certifications-FFC107?style=for-the-badge&logo=scroll&logoColor=black" alt="Certifications"/>
-</a>
+  <a href="https://raghavj12345.github.io/Certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Certifications-FFC107?style=for-the-badge&logo=scroll&logoColor=black" alt="Certifications"/>
+  </a>
   <a href="https://www.linkedin.com/in/raghav-joshi-687a02373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -39,6 +39,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -85,4 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/dark/raghavj12345" alt="Raghav's GitHub Contributions"/>
 </div>
