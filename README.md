@@ -17,7 +17,7 @@ I am a motivated and detail-oriented Aspiring AI/ML Engineer with a strong acade
 🚀 Key Skills & Technologies
 <p align="left">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -41,8 +41,8 @@ Hackathon Participant: Competed in Codetreck by HASHTAG Society of JEMTEC, apply
 🛠️ Featured Project
 <details>
 <summary><strong>Real-Time Face and Behaviour Analysis System (In Progress)</strong></summary>
-
 <br>
+
 This project focuses on analyzing facial expressions and behavioral patterns from a real-time video feed. It integrates computer vision and deep learning models to derive user sentiment and activity insights, with applications in retail customer analysis, workplace wellness monitoring, and intelligent surveillance.
 
 Captures and processes real-time video to detect and track human faces.
