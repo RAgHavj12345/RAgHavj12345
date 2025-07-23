@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Raghav Joshi!
 
-<!--
-**RAgHavj12345/RAgHavj12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, where I showcase my projects in Data Science, Machine Learning, and Quantitative Analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 View My Interactive Portfolio
+
+I've built a custom portfolio website to better showcase my work. Click the button below to check it out!
+
+<p align="center">
+  <a href="https://YourUsername.github.io/YourRepositoryName">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="View My Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 🔧 Key Skills
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow
+- **Tools:** Git, Docker, Tableau, Excel
+- **Concepts:** Machine Learning, Data Visualization, Generative AI, Quantitative Modeling
