@@ -61,3 +61,5 @@ Tech Stack: Python, OpenCV, TensorFlow (in progress).
 <br/>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Draghavj12345%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages"/>
 </p>
+
+Note: I have already updated the GitHub Stats links with your username (raghavj12345). They should work automatically.
