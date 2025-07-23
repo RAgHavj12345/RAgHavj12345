@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=450&section=header&text=&desc=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Aspiring%20AI%20and%20ML%20Engineer&descSize=40&fontColor=ffffff&animation=fadeIn" 
+      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=500&section=header&text=%20&desc=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&descSize=40&fontColor=ffffff&animation=fadeIn" 
       alt="Aspiring AI and ML Engineer Banner" 
       style="max-width: 100%; height: auto;"
     />
