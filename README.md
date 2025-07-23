@@ -1,12 +1,13 @@
 <div align="center">
   <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=500&section=header&text=%20&desc=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&descSize=40&fontColor=ffffff&animation=fadeIn" 
-      alt="Aspiring AI and ML Engineer Banner" 
+      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=500&section=header&text=Raghav%20Joshi&desc=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&fontSize=60&descSize=35&fontColor=ffffff&animation=fadeIn" 
+      alt="Raghav Joshi Portfolio Banner" 
       style="max-width: 100%; height: auto;"
     />
   </a>
 </div>
+
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
 <h3 align="center">Aspiring AI & Machine Learning Engineer from New Delhi, India 🇮🇳</h3>
