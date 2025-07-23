@@ -1,8 +1,21 @@
-# 👋 Hello, I'm Raghav Joshi!
+# 👋 Hello! I'm Raghav Joshi
 
-Welcome to my GitHub profile, where I showcase my projects in Data Science, Machine Learning, and Quantitative Analysis.
+<p align="left">
+  <a href="https://YourUsername.github.io/YourRepositoryName" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raghav-joshi-687a02373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="RaghavJoshiResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-DA291C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 ---
+
+### 👨‍💻 About Me
+I am a motivated and detail-oriented **Aspiring AI/ML Engineer** with a strong academic foundation in Computer Science from JIMS Engineering Management Technical Campus, Delhi. My passion lies in turning complex data into actionable insights and building impactful AI-driven solutions. I have hands-on experience with key machine learning frameworks and a proven ability to learn and adapt in collaborative, fast-paced environments.
 
 ## 🚀 View My Interactive Portfolio
 
