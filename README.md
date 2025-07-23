@@ -11,8 +11,8 @@
   <a href="https://raghavj12345.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://raghavj12345.github.io/Certifications/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Certifications-FFC107%3Fstyle%3Dfor-the-badge%26logo%3Dscroll%26logoColor%3Dblack" alt="Certifications"/>
+<a href="https://raghavj12345.github.io/Certifications/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Certifications-FFC107?style=for-the-badge&logo=scroll&logoColor=black" alt="Certifications"/>
 </a>
   <a href="https://www.linkedin.com/in/raghav-joshi-687a02373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
