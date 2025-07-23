@@ -1,28 +1,12 @@
-<div style="text-align: center; margin-top: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer" class="portfolio-btn">
-    Explore My Portfolio
+<div style="text-align: center;"> 
+  <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=280&section=header&text=Raghav%20Joshi&desc=%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn" 
+      alt="Raghav Joshi Portfolio Banner" 
+      style="max-width: 100%; height: auto;"
+    />
   </a>
 </div>
-
-<style>
-  .portfolio-btn {
-    display: inline-block; 
-    background: #007cf0; 
-    color: white; 
-    padding: 10px 25px; 
-    border-radius: 30px; 
-    font-weight: 600; 
-    font-size: 16px; 
-    text-decoration: none; 
-    box-shadow: 0 4px 8px rgba(0, 124, 240, 0.3);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .portfolio-btn:hover {
-    background-color: #005bb5;
-    box-shadow: 0 6px 12px rgba(0, 91, 181, 0.5);
-  }
-</style>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
 <h3 align="center">Aspiring AI & Machine Learning Engineer from New Delhi, India 🇮🇳</h3>
