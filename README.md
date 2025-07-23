@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raghavj12345/raghavj12345/main/header.png" alt="Header Banner"/>
+  <a href="https://github.com/raghavj12345/portfolio">
+    <img src="https://socialify.git.ci/raghavj12345/portfolio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Portfolio Banner"/>
+  </a>
 </div>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
@@ -15,8 +17,8 @@
   <a href="mailto:raghavj12321@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://raw.githubusercontent.com/raghavj12345/raghavj12345/main/RaghavJoshiResume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-DA291C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  <a href="https://github.com/raghavj12345/raghavj12345/blob/main/RaghavJoshiResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-DA291C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
