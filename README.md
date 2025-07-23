@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://portfolio-bfu1.vercel.app">
-    <img src="https://socialify.git.ci/raghavj12345/portfolio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Portfolio Banner" width="700"/>
+    <img src="https://socialify.git.ci/raghavj12345/raghav-react-portfolio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="React Portfolio Banner" width="700"/>
   </a>
 </div>
 
