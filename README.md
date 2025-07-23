@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Raghav Joshi
 
 <p align="left">
-  <a href="[https://YourUsername.github.io/YourRepositoryName](https://raghavj12345.github.io/portfolio/)" target="_blank">
+  <a href="[[https://YourUsername.github.io/YourRepositoryName](https://raghavj12345.github.io/portfolio/)](https://raghavj12345.github.io/portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-00AADD?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="RaghavJoshiResume.pdf" target="_blank">
