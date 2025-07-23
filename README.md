@@ -86,5 +86,5 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak"/>
   <br/><br/>
-<img src="https://ghchart.rshah.org/dark/raghavj12345" alt="Raghav's GitHub Contributions"/>
+<img src="https://platane.github.io/snk/svg-only/github-contribution-grid-snake-dark.svg?user=raghavj12345&theme=dark" alt="Raghav's GitHub Snake"/>
 </div>
