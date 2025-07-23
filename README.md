@@ -1,16 +1,20 @@
-<div style="text-align: center;">
-  <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=280&section=header&text=Raghav%20Joshi&desc=%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn" 
-      alt="Raghav Joshi Portfolio Banner" 
-      style="max-width: 100%; height: auto;"
-    />
+<div style="text-align: center; margin-top: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer" 
+     style="
+       display: inline-block; 
+       background: #007cf0; 
+       color: white; 
+       padding: 10px 25px; 
+       border-radius: 30px; 
+       font-weight: 600; 
+       font-size: 16px; 
+       text-decoration: none; 
+       box-shadow: 0 4px 8px rgba(0, 124, 240, 0.3);
+       transition: background-color 0.3s ease, box-shadow 0.3s ease;
+     "
+  >
+    Explore My Portfolio
   </a>
-  <div style="margin-top: 8px; font-size: 14px; color: #007cf0; font-weight: 600; cursor: pointer;">
-    <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">
-      Click here to explore my portfolio
-    </a>
-  </div>
 </div>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
