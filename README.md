@@ -18,7 +18,7 @@ I've built a custom portfolio website to better showcase my work. Click the butt
 
 ### 🔧 Key Skills
 
-- **Languages:** Python, SQL
+- **Languages:** Python, Jupyter
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow
 - **Tools:** Git, Docker, Tableau, Excel
 - **Concepts:** Machine Learning, Data Visualization, Generative AI, Quantitative Modeling
