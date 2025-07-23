@@ -1,4 +1,4 @@
-<div style="text-align: center;"> 
+<div style="text-align: center;">
   <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://capsule-render.vercel.app/api?type=wave&color=007cf0&height=280&section=header&text=Raghav%20Joshi&desc=%20%20%20%20%20%20%20Aspiring%20AI%20and%20ML%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn" 
@@ -6,6 +6,11 @@
       style="max-width: 100%; height: auto;"
     />
   </a>
+  <div style="margin-top: 8px; font-size: 14px; color: #007cf0; font-weight: 600; cursor: pointer;">
+    <a href="https://portfolio-bfu1.vercel.app" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">
+      Click here to explore my portfolio
+    </a>
+  </div>
 </div>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
