@@ -98,11 +98,10 @@
     style="max-width: 100%; height: auto;" 
   />
 
- <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" 
+<img 
+  src="https://streak-stats.demolab.com?user=raghavj12345&theme=tokyonight" 
   alt="GitHub Streak Stats for raghavj12345" 
-  width="100%" 
-  style="height: auto; display: block;" 
+  style="width: 60%; height: auto; display: block; margin: 0 auto;" 
 />
 
   <div align="center">
