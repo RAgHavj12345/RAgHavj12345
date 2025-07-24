@@ -104,12 +104,13 @@
 
 
 <div align="center">
-
-  ![Streak](https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight&hide_border=true)
-
-  <!-- other stats images here -->
-
+  <img 
+    src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak Stats for raghavj12345" 
+    width="400" 
+  />
 </div>
+
 
 
   <br/>
