@@ -103,10 +103,7 @@
   <br/>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats-raghav.vercel.app/?user=raghavj12345&theme=tokyonight" 
-    alt="GitHub Streak" 
-  />
+    <img src="https://github-readme-streak-stats-raghav.vercel.app/?user=raghavj12345&theme=tokyonight&cacheSeconds=0" alt="GitHub Streak" />
 </p>
 
 
