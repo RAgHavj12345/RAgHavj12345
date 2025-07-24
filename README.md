@@ -103,11 +103,15 @@
   <br/>
 
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavj12345&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </p>
+
 
 
 
