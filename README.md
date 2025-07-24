@@ -104,10 +104,7 @@
 
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight&type=png" alt="GitHub Streak" />
 </p>
 
 
