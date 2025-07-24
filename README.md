@@ -104,15 +104,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight" 
-      alt="GitHub Streak" 
-    />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com/?user=raghavj12345&theme=tokyonight" 
+    alt="GitHub Streak" 
+  />
 </p>
-
-
 
 
   <br/>
