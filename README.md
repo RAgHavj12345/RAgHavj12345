@@ -89,29 +89,31 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=raghavj12345&show_icons=true&theme=tokyonight&count_private=true" 
     alt="Raghav's GitHub Stats" 
-    style="max-width: 100%; height: auto;" 
+    width="450"
   />
+
+  <br/>
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavj12345&layout=compact&langs_count=8&theme=tokyonight" 
     alt="Top Languages" 
-    style="max-width: 100%; height: auto;" 
+    width="350"
   />
 
-<p align="center">
+  <br/>
+
   <img 
     src="https://streak-stats.demolab.com?user=raghavj12345&theme=tokyonight" 
     alt="GitHub Streak Stats for raghavj12345" 
     width="400"
-/>
-</p>
+  />
 
-  <div align="center">
+  <br/>
 
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
     alt="Raghav's GitHub Snake Animation" 
-    style="max-width: 100%; height: auto;" 
+    width="600"
   />
 
 </div>
