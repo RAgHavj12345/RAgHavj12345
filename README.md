@@ -103,9 +103,8 @@
     src="https://streak-stats.demolab.com?user=raghavj12345&theme=tokyonight" 
     alt="GitHub Streak Stats for raghavj12345" 
     width="400"
-  />
+/>
 </p>
-
 
   <div align="center">
 
