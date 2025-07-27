@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
+<h1 align="center">Hey there, I'm Raghav Joshi 👋 </h1>
 <h3 align="center">Aspiring AI & Machine Learning Engineer</h3>
 
 <p align="center">
