@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hey there, I'm Raghav Joshi 👋</h1>
-<h3 align="center">Aspiring AI & Machine Learning Engineer from New Delhi, India 🇮🇳</h3>
+<h3 align="center">Aspiring AI & Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://portfolio-bfu1.vercel.app" target="_blank">
