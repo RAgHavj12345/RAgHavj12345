@@ -84,6 +84,17 @@
 </details>
 
 <details>
+  <summary><strong>🔧 Predictive Maintenance for Industrial Machinery</strong></summary>
+  <br>
+  An end-to-end machine learning project developed on IBM Watsonx.ai to predict industrial equipment failures from sensor data. The system uses an AutoAI-generated model to achieve 99.6% accuracy and is deployed as a live web service.
+  <br><br>
+  <strong><a href="https://github.com/raghavj12345/Predictive-Maintenance-Project">📄 View on GitHub</a></strong>
+  <ul>
+    <li><strong>Tech Stack:</strong> Python, IBM Watsonx.ai, AutoAI, Scikit-learn, Pandas.</li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>Real-Time Face and Behaviour Analysis System (In Progress)</strong></summary>
   <br>
   This project focuses on analyzing facial expressions and behavioral patterns from a real-time video feed. It integrates computer vision and deep learning models to derive user sentiment and activity insights, with applications in retail customer analysis, workplace wellness monitoring, and intelligent surveillance.
