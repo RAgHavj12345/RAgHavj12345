@@ -73,11 +73,11 @@
   <br>
   A time-series forecasting model deployed as an interactive Streamlit application to predict county-level EV adoption and aid in infrastructure planning.
   <br><br>
-  <a href="https://evchargingprediction.streamlit.app/">
+  <a href="https://evchargingprediction-tkfusxpyhmxkvkivseemmf.streamlit.app/">
     <img src="https://github.com/RAgHavj12345/EV_Charging_Prediction/raw/main/assets/app-screenshot.png" alt="EV Forecaster App Demo"/>
   </a>
   <br><br>
-  <strong><a href="https://evchargingprediction.streamlit.app/">➡️ View Live App</a></strong> | <strong><a href="https://github.com/RAgHavj12345/EV_Charging_Prediction">📄 View on GitHub</a></strong>
+  <strong><a href="https://evchargingprediction-tkfusxpyhmxkvkivseemmf.streamlit.app/">➡️ View Live App</a></strong> | <strong><a href="https://github.com/RAgHavj12345/EV_Charging_Prediction">📄 View on GitHub</a></strong>
   <ul>
     <li><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Matplotlib, Streamlit.</li>
   </ul>
