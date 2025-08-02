@@ -113,8 +113,9 @@
   <br><br>
   <strong>Contribution:</strong> Collaborated on core logic and prompt engineering for product analysis and recommendation engine.
   <br><br>
-  <strong><a href="https://github.com/JAYANTRANJANJHA/Conscious-Cart-AI-Agent">📄 View on GitHub</a></strong> | 
-  <strong><a href="https://conscious-cart-ai-agent.streamlit.app/">📄 View on Live</a></strong>
+  <strong><a href="https://conscious-cart-ai-agent.streamlit.app/">➡️ View on Live</a></strong> | 
+  <strong><a href="https://github.com/JAYANTRANJANJHA/Conscious-Cart-AI-Agent">📄 View on GitHub</a></strong>
+
   
   <ul>
     <li><strong>Tech Stack:</strong> Python, LangGraph, Google Gemini, BeautifulSoup, OpenAI/Google APIs.</li>
