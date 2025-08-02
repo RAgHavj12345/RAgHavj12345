@@ -106,6 +106,19 @@
   </ul>
 </details>
 
+<details>
+  <summary><strong>Conscious Cart – AI-Powered Eco Product Analyzer</strong></summary>
+  <br>
+  An AI-powered tool that analyzes the environmental impact of consumer products based on name or URL input, then suggests sustainable alternatives. Built using Google Gemini and LangGraph agent architecture.
+  <br><br>
+  <strong>Contribution:</strong> Collaborated on core logic and prompt engineering for product analysis and recommendation engine.
+  <br><br>
+  <strong><a href="https://github.com/JAYANTRANJANJHA/Conscious-Cart-AI-Agent">📄 View on GitHub</a></strong>
+  <ul>
+    <li><strong>Tech Stack:</strong> Python, LangGraph, Google Gemini, BeautifulSoup, OpenAI/Google APIs.</li>
+  </ul>
+</details>
+
 ---
 
 ### 📊 My GitHub Stats & Activity
