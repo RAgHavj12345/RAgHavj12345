@@ -69,7 +69,7 @@
 ### 🛠️ Featured Projects
 
 <details>
-  <summary><strong>🔮 EV Adoption Forecaster</strong></summary>
+  <summary><strong>EV Adoption Forecaster</strong></summary>
   <br>
   A time-series forecasting model deployed as an interactive Streamlit application to predict county-level EV adoption and aid in infrastructure planning.
   <br><br>
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary><strong>🔧 Predictive Maintenance for Industrial Machinery</strong></summary>
+  <summary><strong>Predictive Maintenance for Industrial Machinery</strong></summary>
   <br>
   An end-to-end machine learning project developed on IBM Watsonx.ai to predict industrial equipment failures from sensor data. The system uses an AutoAI-generated model to achieve 99.6% accuracy and is deployed as a live web service.
   <br><br>
