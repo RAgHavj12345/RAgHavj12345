@@ -94,17 +94,6 @@
   </ul>
 </details>
 
-<details>
-  <summary><strong>Real-Time Face and Behaviour Analysis System (In Progress)</strong></summary>
-  <br>
-  This project focuses on analyzing facial expressions and behavioral patterns from a real-time video feed. It integrates computer vision and deep learning models to derive user sentiment and activity insights, with applications in retail customer analysis, workplace wellness monitoring, and intelligent surveillance.
-  <ul>
-    <li><strong>Captures and processes</strong> real-time video to detect and track human faces.</li>
-    <li><strong>Integrates</strong> facial expression recognition and pose estimation models.</li>
-    <li><strong>Aims to provide</strong> actionable insights based on user sentiment and behavior.</li>
-    <li><strong>Tech Stack:</strong> Python, OpenCV, TensorFlow (in progress).</li>
-  </ul>
-</details>
 
 <details>
   <summary><strong>Conscious Cart – AI-Powered Eco Product Analyzer</strong></summary>
@@ -158,5 +147,3 @@
   />
 
 </div>
-
-
