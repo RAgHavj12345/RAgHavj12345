@@ -62,7 +62,7 @@
 -   **Microsoft Learn Student Ambassador:** Recognized for technical leadership and hosting peer-learning sessions on Python and AI.
 -   **Forage Job Simulations:** Completed multiple real-world job simulations in Data Analytics and Machine Learning from top global companies.
 -   **Google AI & TCS iON Certified:** Completed certified courses covering AI fundamentals, data analytics, and professional skills.
--   **Hackathon Participant:** Competed in Codetreck by HASHTAG Society of JEMTEC, applying problem-solving skills under pressure.
+-   **Hackathon Participant:** Competed in Codetreck by HASHTAG Society, applying problem-solving skills under pressure.
 
 ---
 
